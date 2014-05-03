@@ -1,9 +1,10 @@
-README
+JumpGame
 ===============================================
 
-This is a Readme file for my first repository
+The first repository I have added to Git Hub
 -----------------------------------------------
 
-I'm just testing **this** to make sure it works. This *word* should be in italics
+This is the first project that I've properly worked on in my spare time. It's wrote in Java which is my strongest language at the moment and so I am weighing up moving onto a different langauge for my next project/ideas.
 
-This should be a new paragraph.
+It hasn't taken too long to take shape although a lot of the code isn't very optimised (you can see a good example of this when you play the game and the speed increases). However I'm pleased with the results but less so with my attempts at artwork...
+
